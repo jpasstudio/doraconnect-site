@@ -1,0 +1,127 @@
+{
+  "project": "DoraConnect",
+  "scope": "Public static documentation only",
+  "verifiedAt": "2026-09-06T11:46:28.544503+00:00",
+  "contentCommit": "4bb3ad540576dae579d9b09363baa9caf260d16b",
+  "urlChecks": [
+    {
+      "url": "https://jpasstudio.github.io/doraconnect-site/",
+      "http": 200,
+      "contentType": "text/html",
+      "bytes": 6824,
+      "sha256": "05db6ad41fcf5c0dc312e19c72e4aec2570c1446cb4c9a497b2098f0452f6378",
+      "unauthenticated": true,
+      "redirects": 0
+    },
+    {
+      "url": "https://jpasstudio.github.io/doraconnect-site/terms/",
+      "http": 200,
+      "contentType": "text/html",
+      "bytes": 8488,
+      "sha256": "fbf5020376fe40213a5a4c4b0a29ccee5a95418a31220896a4b6fc76066f0560",
+      "unauthenticated": true,
+      "redirects": 0
+    },
+    {
+      "url": "https://jpasstudio.github.io/doraconnect-site/privacy/",
+      "http": 200,
+      "contentType": "text/html",
+      "bytes": 10100,
+      "sha256": "585e6b6a9692275c823b110a474a504cf16149ee683dd93742be525b2eeb84f5",
+      "unauthenticated": true,
+      "redirects": 0
+    },
+    {
+      "url": "https://jpasstudio.github.io/doraconnect-site/support/",
+      "http": 200,
+      "contentType": "text/html",
+      "bytes": 5236,
+      "sha256": "634baa2c7d92367a69186c565402cc1bd6eba13f671da95e1beb5ea8560cedd1",
+      "unauthenticated": true,
+      "redirects": 0
+    },
+    {
+      "url": "https://jpasstudio.github.io/doraconnect-site/assets/site.css",
+      "http": 200,
+      "contentType": "text/css",
+      "bytes": 5946,
+      "sha256": "0b1c76a058e9f0439d53e9dcf7ab174005f9e4d05bbd6a7fefc419b90ef3f81b",
+      "unauthenticated": true,
+      "redirects": 0
+    },
+    {
+      "url": "https://jpasstudio.github.io/doraconnect-site/assets/doraconnect-icon-1024.png",
+      "http": 200,
+      "contentType": "image/png",
+      "bytes": 320174,
+      "sha256": "52dd700c572ab95ee0cfba991a35c1bac39ae64d57c19f389bde97410db5a33d",
+      "unauthenticated": true,
+      "redirects": 0
+    }
+  ],
+  "httpsEnforced": true,
+  "browserChecks": [
+    {
+      "path": "/",
+      "width": 1440,
+      "http": 200,
+      "noHorizontalOverflow": true
+    },
+    {
+      "path": "terms/",
+      "width": 1440,
+      "http": 200,
+      "noHorizontalOverflow": true
+    },
+    {
+      "path": "privacy/",
+      "width": 1440,
+      "http": 200,
+      "noHorizontalOverflow": true
+    },
+    {
+      "path": "support/",
+      "width": 1440,
+      "http": 200,
+      "noHorizontalOverflow": true
+    },
+    {
+      "path": "/",
+      "width": 390,
+      "http": 200,
+      "noHorizontalOverflow": true
+    },
+    {
+      "path": "terms/",
+      "width": 390,
+      "http": 200,
+      "noHorizontalOverflow": true
+    },
+    {
+      "path": "privacy/",
+      "width": 390,
+      "http": 200,
+      "noHorizontalOverflow": true
+    },
+    {
+      "path": "support/",
+      "width": 390,
+      "http": 200,
+      "noHorizontalOverflow": true
+    }
+  ],
+  "appIcon": {
+    "width": 1024,
+    "height": 1024,
+    "bytes": 320174,
+    "format": "PNG",
+    "source": "export of website D lettermark in original project colors"
+  },
+  "noScriptsOrForms": true,
+  "workspacePublished": false,
+  "oauthEndpointPublished": false,
+  "webhookEndpointPublished": false,
+  "tikTokUrlOwnershipVerified": false,
+  "productionLegalReviewComplete": false,
+  "remaining": "Actual TikTok URL-prefix signature file; confirmed operator identity and private support contact; separately implemented Login callback."
+}
